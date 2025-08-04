@@ -11,5 +11,3 @@ function return_normal(){
      element.style.color = "rgb(0, 0, 0)"
     })
 }
-
-
